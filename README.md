@@ -35,8 +35,8 @@ Bem-vindos ao meu repositório! Sou a **Carol**, apaixonada por tecnologia e des
 ---
 
 ### 🚀 Sobre mim:
-- 🔭 Atualmente trabalhando em projetos com **[suas principais tecnologias]**.
-- 🌱 Aprendendo e aprimorando habilidades em **[tecnologias que você está aprendendo, como Docker, Kubernetes, etc.]**.
+- 🔭 Atualmente trabalhando em projetos como Full Stack com maior foco em Front End.
+- 🌱 Aprendendo e aprimorando habilidades em Docker, Kubernetes, Node.js e Inglês.
 - 💬 Amo discutir sobre **desenvolvimento, tecnologias web, frameworks modernos e boas práticas**.
 
 ---
