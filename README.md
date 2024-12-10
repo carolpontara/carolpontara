@@ -42,4 +42,3 @@ Bem-vindos ao meu repositório! Sou a **Carol**, apaixonada por tecnologia e des
 
 ---
 
-Espero que goste dessa reformulação! 🎉 Se precisar de mais ajustes ou ideias, só pedir.
