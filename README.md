@@ -1,4 +1,3 @@
-Aqui está uma versão melhorada do seu README para torná-lo mais atraente, profissional e informativo:
 
 ---
 
